@@ -1,0 +1,24 @@
+
+.leftdiv{
+    float:left;
+}
+.rightdiv{
+    float:right;
+}
+div{
+    padding : 1%;
+    color:rgb(10, 1, 1);
+    width:45%;
+    
+}
+.vertical{
+  border-left: 6px solid black;
+  height: 800px;
+  position:absolute;
+  left:50%;
+   }
+   body{
+       border:1px solid black;
+       height: 990px;
+   }
+   
